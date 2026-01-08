@@ -11,7 +11,7 @@
 
 ![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-E76F00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111)
 ![SQL](https://img.shields.io/badge/SQL-2F4F4F?style=flat&logo=postgresql&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
