@@ -1,4 +1,4 @@
-# Yo, I'm Carlo
+# Yo, I'm ThermoNuke1
 
 * 🎓 Software Engineering student (4th year)
 * 💻 Backend‑leaning full‑stack developer
