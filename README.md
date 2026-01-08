@@ -1,18 +1,17 @@
-# 👋 Hi, I'm Carlo
+# Yo, I'm Carlo
 
 * 🎓 Software Engineering student (4th year)
 * 💻 Backend‑leaning full‑stack developer
 * 🔍 Interested in systems design, reliability, and infrastructure
 * 📈 Strong interest in machine learning and mathmatical applications.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Programming Languages**:
 
 ![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-E76F00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111
 ![SQL](https://img.shields.io/badge/SQL-2F4F4F?style=flat&logo=postgresql&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
@@ -34,16 +33,10 @@
 
 **Version Control, CI & Collaboration**:
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-**Testing**:
-
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat)
 
 
 
