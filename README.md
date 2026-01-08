@@ -2,8 +2,6 @@
 
 Software Engineering student with a strong focus on backend systems, system architectures, developer tooling and infrastructure. I enjoy building designing and builiding systems that are observable, secure, and maintainable, and I care a lot about clean boundaries, good abstractions, and documentation that actually explains *why* things exist.
 
----
-
 ## 🧠 About Me
 
 * 🎓 Software Engineering student (4th year)
@@ -12,8 +10,6 @@ Software Engineering student with a strong focus on backend systems, system arch
 * 📈 Strong interest in machine learning and mathmatical applications.
 
 I tend to gravitate toward problems involving **architecture, correctness, and scale**, whether that’s designing service boundaries, building CI/CD pipelines, or reasoning about edge cases in distributed systems.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -56,19 +52,15 @@ I tend to gravitate toward problems involving **architecture, correctness, and s
 ![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
----
-
 ## 🚧 Projects
 
 *  [Concordia University Navigation App](https://github.com/thermoNuke1/SOEN-390-Project): App designed to enhance Concordia University campus navigation.
 *  [Delivery Management Website](https://github.com/thermoNuke1/The-blueprint--SOEN-343): Website designed to streamline delivery management, enhancing user experience and operational efficiency.
 
----
 
 ## 📫 Contact
 
 * LinkedIn: [*(link)*](https://www.linkedin.com/in/carlo-aldabi/)
 
----
 
 > I build software because I like understanding how systems fail.
