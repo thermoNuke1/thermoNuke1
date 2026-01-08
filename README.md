@@ -1,9 +1,9 @@
 # Yo, I'm ThermoNuke1
 
-* 🎓 Software Engineering student (4th year)
-* 💻 Backend‑leaning full‑stack developer
-* 🔍 Interested in systems design, reliability, and infrastructure
-* 📈 Strong interest in machine learning and mathmatical applications.
+*  Software Engineering student (4th year)
+*  Backend‑leaning full‑stack developer
+*  Interested in systems design, reliability, and infrastructure
+*  Strong interest in machine learning and mathmatical applications.
 
 ## Tech Stack
 
