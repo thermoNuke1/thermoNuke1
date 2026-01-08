@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Carlo
 
-Software Engineering student with a strong focus on backend systems, system architectures, developer tooling and infrastructure. I enjoy building designing and builiding systems that are observable, secure, and maintainable, and I care a lot about clean boundaries, good abstractions, and documentation that actually explains *why* things exist.
-
-## 🧠 About Me
-
 * 🎓 Software Engineering student (4th year)
 * 💻 Backend‑leaning full‑stack developer
 * 🔍 Interested in systems design, reliability, and infrastructure
@@ -51,7 +47,7 @@ Software Engineering student with a strong focus on backend systems, system arch
 
 
 
-## 🚧 Projects
+## 🚧 Some Projects
 
 *  [Concordia University Navigation App](https://github.com/thermoNuke1/SOEN-390-Project): App designed to enhance Concordia University campus navigation.
 *  [Delivery Management Website](https://github.com/thermoNuke1/The-blueprint--SOEN-343): Website designed to streamline delivery management, enhancing user experience and operational efficiency.
