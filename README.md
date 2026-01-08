@@ -40,10 +40,8 @@
 
 
 
-## 🚧 Some Projects
+## Current Projects
 
-*  [Concordia University Navigation App](https://github.com/thermoNuke1/SOEN-390-Project): App designed to enhance Concordia University campus navigation.
-*  [Delivery Management Website](https://github.com/thermoNuke1/The-blueprint--SOEN-343): Website designed to streamline delivery management, enhancing user experience and operational efficiency.
-
+Working and desgining a smart parking system mainly backend and CI/CD but also overseeing the overall architecture.
 
 > I build software because I like understanding how systems fail.
