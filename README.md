@@ -1,9 +1,7 @@
 # Yo, I'm ThermoNuke1
 
-*  Software Engineering student (4th year)
-*  Backend‑leaning full‑stack developer
 *  Interested in systems design, reliability, and infrastructure
-*  Strong interest in machine learning and mathmatical applications.
+
 
 ## Tech Stack
 
@@ -41,7 +39,5 @@
 
 
 ## Current Projects
-
-Working and desgining a smart parking system mainly backend and CI/CD but also overseeing the overall architecture.
 
 > I build software because I like understanding how systems fail.
